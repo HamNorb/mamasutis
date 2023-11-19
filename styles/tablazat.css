@@ -9,11 +9,11 @@ th, td {
 }
 th {
     color: #1E459E;
-    background-color: #b9c9fe;
-    border-top: 5px solid #AABCFE;
+    background-color: #f6b9fe;
+    border-top: 5px solid #f6b9fe;
 }
 td {
     color: #7274a5;
-    background-color: #d0dafd;
+    background-color: #f6b9fe;
     border-top: 3px solid #FFFFFF;
 }

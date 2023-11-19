@@ -1,4 +1,8 @@
 <?php
+ if (!isset($_SESSION['login'])) {
+	    header("./demo");
+    exit;
+}
     // Alkalmazás logika:
     include('./includes/config.inc.php');
     

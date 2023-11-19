@@ -9,9 +9,9 @@
   <q>A vallás nem boldogít, de a hagyományok és a különleges sütemények igen.</q>
   <br><br>
   <q>Köztudott, hogy a házi készítésű sütikben nincs kalória</q>
-  <br><br>
+  <br><br><br>
   <q>Ha egy nő önzetlen, az ugyanolyan katasztrofális tud lenni, mintha valaki avatatlan kézzel fog neki a süteménykészítésnek.</q>
-  
+  <br><br><br>
         <h2>Találkozz velem</h2>
         <h5>Közönségtalálkozó, Dec 7, 2023</h5>
         <img src="./images/nagyi.jpg"></img>
@@ -19,9 +19,9 @@
         <p>"Most újabb álom vált valóra Eszter életében, ismét alkotott valamit, amivel értéket őriz és továbbít felénk. A rá oly jellemző érzékenységgel párosult maximalizmussal elkészítette saját szakácskönyvét, amelyben a klasszikus, magyaros receptek mellett igazi különlegességeket is kínál."
 		<br>
 		A könyv négy fejezetből áll: desszertek, desszertek, desszertek, desszertek. A klasszikus fogások mellett egészen különleges receptek is találhatóak a szakácskönyvben. A magyaros fogások kedvelőinek kötelező darab!</p>
-        <br>
+        <br><br><br><br>
 		<h2>Nagyi mama elárulja a hosszú élet titkát</h2>
-        <h5>Közönségtalálkozó, Dec 7, 2023</h5>
+        <h5>Közönségtalálkozó, Nov 24, 2023</h5>
         <img src="./images/ital.jpg"></img>
 		<img src="./images/ugras.jpg"></img>
 		<p>A hosszú és boldog életnek tehát titka van. Mi sem bizonyítja ezt jobban, mint az, hogy az említett közösségek tagjai lényegében azonos életvitelt folytatnak. 
@@ -33,8 +33,8 @@
 		<br>
 		A kettő nem ugyanaz. Olyan környezetben élnek, ahol minden nap rá vannak kényszerítve az enyhe testmozgásra. Fel-alá sétálnak a dombokon, vagy éppen naphosszat kertészkednek, esetleg állatokat gondoznak. És még valami: lényegesen kevesebbet stresszelnek.
 		</p>
-  
- <p>Partnerek</p>
+  <br>
+ <strong>Sütis partnerek</strong>
         <ul class="nav nav-pills flex-column">
           <li class="nav-item">
             <a class="nav-link active" href="https://www.mindmegette.hu/valogatas/finom-hazi-sutemenyek-513/">Mind megette</a>
