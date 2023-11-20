@@ -1,5 +1,5 @@
 <table>
-    <caption><strong>Akiknek hálásak vagyunk</strong><br>Támogatók</caption>
+    <caption><strong>Akiknek hálásak vagyunk</strong><br><br>Támogatók</caption><br>
     <tr>
         <th>Támogatott</th>
         <th>Összeg</th>
