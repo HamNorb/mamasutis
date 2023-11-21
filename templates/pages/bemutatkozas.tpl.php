@@ -7,7 +7,7 @@
   </div>
   <br><br>
   <q>A vallás nem boldogít, de a hagyományok és a különleges sütemények igen.</q>
-  <br><br>
+  <br><br><br>
   <q>Köztudott, hogy a házi készítésű sütikben nincs kalória</q>
   <br><br><br>
   <q>Ha egy nő önzetlen, az ugyanolyan katasztrofális tud lenni, mintha valaki avatatlan kézzel fog neki a süteménykészítésnek.</q>

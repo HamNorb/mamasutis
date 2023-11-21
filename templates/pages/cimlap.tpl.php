@@ -1,5 +1,5 @@
 <h2>Köszöntés</h2>
-<img src="./images/Nagyi.jpg">
+<img src="./images/nagyi.jpg">
 <h3>Nagyi mama</h3>
 <p>Fiát, Andrew-t többször átnevelő táborba küldte, legutolsó alkalommal akkor, amikor az rátámadott George-ra egy anyjával váltott csók után. Nagyi alkoholproblémája akkor vált szorongatóvá, amikor Lynette gyerekeit felügyelve némi bor elfogyasztása után kidőlt, a gyerekek pedig elszöktek. Nagyi nehezen, de rávette magát, hogy elmenjen az Anonim Alkoholisták összejövetelére, ám továbbra is úgy gondolta, hogy nincs problémája az ivással – az összejövetelekre azért ment el, hogy ezzel segítsen megakadályozni fia önállósodását. </p>
 <h3>Honnan származik?</h3>
